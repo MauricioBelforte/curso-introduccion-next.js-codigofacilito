@@ -1,4 +1,6 @@
+Clase 17
 
+Agregando TailwindCSS para manejar estilos
 
 tuve que reinstalar usando bash de git ya que no me habia instalado los node_modulos
 

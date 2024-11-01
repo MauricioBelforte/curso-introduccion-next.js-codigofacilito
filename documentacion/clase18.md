@@ -1,5 +1,7 @@
 Clase 18
 
+Instalando paquetes requeridos para MDX
+
 # Instalando paquetes requeridos para MDX
 
 # Instalación de Paquetes Adicionales para MDX

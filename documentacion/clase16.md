@@ -1,3 +1,7 @@
+Clase 16
+
+Creando nuestro proyecto
+
 # Configuración Inicial: Instalación de Yarn y Next.js
 
 ## Instalación de Yarn
@@ -5,29 +9,29 @@
 1. **Instalar Node.js**: Si no tienes Node.js instalado, puedes descargarlo desde [nodejs.org](https://nodejs.org/).
 2. **Instalar Yarn usando npm**:
 
-\```bash
+```bash
 npm install --global yarn
-\```
+```
 
 3. **Verificar la Instalación**:
 
-\```bash
+```bash
 yarn --version
-\```
+```
 
 ## Creación de un Proyecto Next.js
 
 1. **Crear un Nuevo Proyecto Next.js**:
 
-\```bash
+```bash
 npx create-next-app@latest nombre-del-proyecto
-\```
+```
 
 2. **Navegar al Directorio del Proyecto**:
 
-\```bash
+```bash
 cd nombre-del-proyecto
-\```
+```
 
 ---
 
